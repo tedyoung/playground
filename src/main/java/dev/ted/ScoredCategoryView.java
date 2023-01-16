@@ -1,7 +1,4 @@
-package com.jitterted.yacht.adapter.in.web;
-
-import com.jitterted.yacht.domain.ScoreCategory;
-import com.jitterted.yacht.domain.ScoredCategory;
+package dev.ted;
 
 import java.util.Comparator;
 import java.util.List;

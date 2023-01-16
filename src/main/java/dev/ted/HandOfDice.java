@@ -1,4 +1,4 @@
-package com.jitterted.yacht.domain;
+package dev.ted;
 
 import java.util.ArrayList;
 import java.util.Collections;

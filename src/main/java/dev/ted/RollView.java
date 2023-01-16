@@ -1,6 +1,4 @@
-package com.jitterted.yacht.adapter.in.web;
-
-import com.jitterted.yacht.domain.HandOfDice;
+package dev.ted;
 
 import java.util.List;
 import java.util.stream.Collectors;

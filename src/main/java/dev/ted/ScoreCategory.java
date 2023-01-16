@@ -1,4 +1,4 @@
-package com.jitterted.yacht.domain;
+package dev.ted;
 
 public enum ScoreCategory {
     ONES,
